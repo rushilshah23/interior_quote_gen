@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Home",
+        "url": "/",
+        "logo": "static/images/home.png"
+    },
+    {
+        "name": "About",
+        "url": "/about",
+        "logo": "static/images/about.png"
+    },
+    {
+        "name": "Contact",
+        "url": "/contact",
+        "logo": "static/images/contact.png"
+    }
+]
